@@ -1,0 +1,131 @@
+        <!--sidebar start-->
+        <?php
+             $user_type_no =$_SESSION['user']['user_type_no'];
+        ?>
+        <aside>
+            <div id="sidebar" class="nav-collapse">
+                <!-- sidebar menu start-->
+                <div class="leftside-navigation">
+                    <ul class="sidebar-menu" id="nav-accordion">
+                    
+                        <li class="sub-menu">
+                            <a  href="../javascript:;">
+                                <i class="fa fa-user"></i>
+                                <span>General</span>
+                            </a>
+                            <ul class="sub">
+                                <li>
+                                    <a href="img_test.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Our Services</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="about_us.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>About US</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="contact.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Contact</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="office_hour.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Office Days</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="social.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Social Links</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="team.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Team Members</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="slide.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Slider</span>
+                                    </a>
+                                </li>  
+                                <li>
+                                    <a href="partner.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Partner</span>
+                                    </a>
+                                </li>  
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a  href="../javascript:;">
+                                <i class="fa fa-user"></i>
+                                <span>Coverage Area</span>
+                            </a>
+                            <ul class="sub">
+                                <li>
+                                    <a href="district.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>District</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="sub_district.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Thana</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="coverage_area.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Coverage Area Setup</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+                            <a  href="../javascript:;">
+                                <i class="fa fa-user"></i>
+                                <span>Packages</span>
+                            </a>
+                            <ul class="sub">
+                                <li>
+                                    <a href="package.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Package Setup</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="sub-menu">
+				 <li>
+                                    <a href="packages.php">
+                                        <i class="fa fa-user"></i>
+                                        <span>Package Setup</span>
+                                    </a>
+                                </li>                        <a  href="../javascript:;">
+                            <i class="fa fa-user"></i>
+                            <span>Registered User Info</span>
+                        </a>
+                        <ul class="sub">
+                            <li>
+                                <a href="reg_report.php">
+                                    <i class="fa fa-user"></i>
+                                    <span>User Report</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li> 
+                 </ul>            
+            </div>
+        <!-- sidebar menu end-->
+    </div>
+</aside>
+<!--sidebar end-->
