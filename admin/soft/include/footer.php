@@ -1,7 +1,7 @@
 
         <footer id="footer">
             <div class="footer_tittle text-center">
-               &copy; <?php echo date('Y'); ?> | Developed By Radiant Communications Ltd.
+               &copy; <?php echo date('Y'); ?> | Developed BeXpart.
             </div>
         </footer>
     </section>
