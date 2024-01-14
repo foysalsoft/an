@@ -1,2 +1,2 @@
-# an
-https://github.com/foysalsoft/an.git
+# web
+https://github.com/foysalsoft/web.git
